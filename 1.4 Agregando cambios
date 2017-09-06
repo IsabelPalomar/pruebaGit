@@ -1,0 +1,3 @@
+Bueno, parece que nuestro repositorio de Git está funcionando correctamente. ¿Cómo Git dice que octocat.txt está "sin seguimiento"? Eso significa que Git ve que octocat.txt es un nuevo archivo.
+
+Para indicarle a Git que comience a realizar el seguimiento de los cambios realizados en octocat.txt, primero debemos añadirlo al área de preparación utilizando git add.
