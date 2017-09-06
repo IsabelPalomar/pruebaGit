@@ -1,0 +1,3 @@
+Observe cómo Git dice que los cambios deben ser cometidos? Los archivos que aparecen aquí están en el área de prueba y aún no están en nuestro repositorio. Podríamos agregar o quitar archivos de la etapa antes de almacenarlos en el repositorio.
+
+Para almacenar nuestros cambios realizados, ejecutamos el comando commit con un mensaje que describe lo que hemos cambiado. Hagamos eso ahora escribiendo:
