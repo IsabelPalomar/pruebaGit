@@ -1,0 +1,1 @@
+Buen trabajo completando el curso TryGit de Code School y GitHub. Has ganado esa insignia linda allí. Para mirar sus bigotes perfectamente simétricos por toda la eternidad, inicie sesión o cree una cuenta gratuita. Y que tus amigos sepan lo fácil que es intentar Git!
